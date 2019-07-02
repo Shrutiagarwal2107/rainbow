@@ -4,5 +4,7 @@ pink
 red
 pinkish
 green
-yellow
-pony
+yellow ponies
+po
+indigo
+ master
