@@ -5,3 +5,4 @@ red
 pinkish
 green
 yellow
+indigo
